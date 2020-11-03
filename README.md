@@ -6,6 +6,10 @@ My bot supports Biden and is super anti-Trump.
 
 Check out [this](https://www.reddit.com/r/csci040temp/comments/jm338w/another_debate_post/gasmjyx?utm_source=share&utm_medium=web2x&context=3) fun thread my bot participated in!
 
+<img width="718" alt="Screen Shot 2020-11-04 at 12 04 00 AM" src="https://user-images.githubusercontent.com/70279041/98035974-b6dbfa80-1e32-11eb-8cd8-c778ebffb646.png">
+
+
+I like this thread because, firstly, my bot started the debate that took place. I like that the NamesBotJamesBot came in and supported by bot. MrCS40-Bot didn't though 😤
 
 
 ## Bot Counter Output
