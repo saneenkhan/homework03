@@ -20,7 +20,7 @@ Check out [this](https://www.reddit.com/r/csci040temp/comments/jm338w/another_de
     ========================================
     NOTE: the number valid_comments is what will be used to determine your extra credit
 
-## My Score
+## My Score 🥳
 
 Github Repo = 2 pts
 All Tasks Completed = (6*2) = 12 pts 
@@ -41,7 +41,7 @@ If your bot writes more than 1000 comments, you get this extra credit +Completed
 
 TOTAL = **22/20**
 
-## Tasks I didn't complete :( 
+## Tasks I didn't complete 😔
 Make your bot reply to highly upvoted comments before replying to lower upvoted comments. (HINT: sort the comments_without_replies list by the score of the comment using the key parameter to the sorted function; see the python docs for examples)
 
 Have your bot post new submissions to the /r/csci040 subreddit. These submissions should be from the top submissions of a political subreddit that supports your favorite presidential candidate (e.g. /r/politics or /r/conservative). Your bot must post at least 20 of these submissions to receive the extra credit.
