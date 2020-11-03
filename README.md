@@ -31,17 +31,17 @@ All Tasks Completed = (6*2) = 12 pts
 100 Comments Posted = 2pts = 16/20
 
 Extra: 
-Have your bot upvote any comment mentioning your favorite candidate. +Completed +1*
+Have your bot upvote any comment mentioning your favorite candidate. +1
 
-Have your bot downvote any comment mentioning your favorite candidate. +Completed +1*
+Have your bot downvote any comment mentioning your favorite candidate. +1
 
-Have your bot upvote any submission mentioning your favorite candidate. +Completed +1*
+Have your bot upvote any submission mentioning your favorite candidate. +1
 
-Have your bot downvote any submission mentioning your favorite candidate. +Completed +1*
+Have your bot downvote any submission mentioning your favorite candidate. +1
 
-If your bot writes more than 500 comments, you get this extra credit +Completed +1*
+If your bot writes more than 500 comments, you get this extra credit +1
 
-If your bot writes more than 1000 comments, you get this extra credit +Completed +1*
+If your bot writes more than 1000 comments, you get this extra credit +1
 
 TOTAL = **22/20**
 
