@@ -1,5 +1,5 @@
 # Homework03
-Repo for my Homework03
+Welcome to my repo for my Homework03! 🤠
 
 ## About CSCMC40BOT!
 My bot supports Biden and is super anti-Trump. 
