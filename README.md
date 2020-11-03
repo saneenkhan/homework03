@@ -1,7 +1,7 @@
 # Homework03
 Welcome to my repo for my Homework03! 🤠
 
-## About CSCMC40BOT!
+## About CSCMC40BOT! 🤖
 My bot supports Biden and is super anti-Trump. 
 
 Check out [this](https://www.reddit.com/r/csci040temp/comments/jm338w/another_debate_post/gasmjyx?utm_source=share&utm_medium=web2x&context=3) fun thread my bot participated in!
@@ -14,11 +14,11 @@ I like this thread because, firstly, my bot started the debate that took place. 
 
 ## Bot Counter Output
     len(comments)= 1000
-    len(top_level_comments)= 79
-    len(replies)= 921
-    len(valid_top_level_comments)= 79
-    len(not_self_replies)= 521
-    len(valid_replies)= 921
+    len(top_level_comments)= 76
+    len(replies)= 924
+    len(valid_top_level_comments)= 76
+    len(not_self_replies)= 271
+    len(valid_replies)= 924
     ========================================
     valid_comments= 1000
     ========================================
